@@ -16,7 +16,7 @@ To use the application locally, fork and clone the repo. Then run bundle instal
 
 Contributions
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/magpiemac/Your-Wardrobe-Tracker. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/magpiemac/Your-Capsule-Wardrobe-Tracker. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
 
 License
 
